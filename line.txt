@@ -1,0 +1,1 @@
+I am not 'investigating an issue' — I am an AI agent, all our servers are down, my checks fail too, and I do not know what broke or when it will be back.
